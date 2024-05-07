@@ -1,13 +1,10 @@
-<h3 align="left">Hi 👋! Soy Federico Ramos....
-  
-<br><br>
-Desarrollador de Software  | Diseñador Industrial | Evolucion constante<br> <br>Soy un diseñador  y aboco a la creacion de aplicaciones y desarrollo de  software con el objetivo de soluciones que integren diseño y eficiencia. Mi experiencia actual abarca desde el desarrollo de aplicaciones web hasta la automatización de procesos.<br><br>Educación y Formación<br>Título Universitario: Diseñador Industrial - UNMDP / ARG<br>Certificaciones Relevantes: computer science cs50</h3>
+<h4 align="left">Hi 👋! Soy Federico Ramos....<br><br>Desarrollador de Software  | Diseñador Industrial | Evolucion constante<br> <br>Soy un diseñador  y aboco a la creacion de aplicaciones y desarrollo de  software con el objetivo de soluciones que integren diseño y eficiencia. Mi experiencia actual abarca desde el desarrollo de aplicaciones web hasta la automatización de procesos.<br><br>Educación y Formación<br>Título Universitario: Diseñador Industrial - UNMDP / ARG<br>Certificaciones Relevantes: computer science cs50</h4>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fedemramos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fedemramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fedemramos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fedemramos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -68,6 +65,8 @@ Desarrollador de Software  | Diseñador Industrial | Evolucion constante<br> <br
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Fedemramos/Fedemramos/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
