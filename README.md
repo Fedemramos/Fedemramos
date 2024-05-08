@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="230" src="https://mir-s3-cdn-cf.behance.net/user/138/2ce37e1202230651.6212feea12c0d.jpg"  />
+<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/user/230/2ce37e1202230651.6212feea12c0d.jpg"  />
 
 ###
 
