@@ -29,7 +29,7 @@
 
 <h2 align="center">👩‍💻  Sobre mi:</h2>
 
-###
+
 
 <h3 align="left">Desarrollador de Software | Diseñador Industrial | Evolucion constante<br><br>Soy un diseñador y aboco a la creacion de aplicaciones y desarrollo de software con el objetivo de soluciones que integren diseño y eficiencia. Mi experiencia actual abarca desde el desarrollo de aplicaciones web hasta la automatización de procesos.<br><br>Educación y Formación<br>Título Universitario: Diseñador Industrial - UNMDP / ARG<br>Certificaciones Relevantes: computer science cs50</h3>
 
