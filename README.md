@@ -27,11 +27,11 @@
 
 ###
 
-<h3 align="center">👩‍💻  Sobre mi:</h3>
+<h2 align="center">👩‍💻  Sobre mi:</h2>
 
 ###
 
-<p align="left">Desarrollador de Software | Diseñador Industrial | Evolucion constante<br><br>Soy un diseñador y aboco a la creacion de aplicaciones y desarrollo de software con el objetivo de soluciones que integren diseño y eficiencia. Mi experiencia actual abarca desde el desarrollo de aplicaciones web hasta la automatización de procesos.<br><br>Educación y Formación<br>Título Universitario: Diseñador Industrial - UNMDP / ARG<br>Certificaciones Relevantes: computer science cs50</p>
+<h3 align="left">Desarrollador de Software | Diseñador Industrial | Evolucion constante<br><br>Soy un diseñador y aboco a la creacion de aplicaciones y desarrollo de software con el objetivo de soluciones que integren diseño y eficiencia. Mi experiencia actual abarca desde el desarrollo de aplicaciones web hasta la automatización de procesos.<br><br>Educación y Formación<br>Título Universitario: Diseñador Industrial - UNMDP / ARG<br>Certificaciones Relevantes: computer science cs50</h3>
 
 ###
 
@@ -40,37 +40,37 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="32" alt="astro logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="32" alt="blender logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="32" alt="c logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="32" alt="css3 logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="32" alt="django logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="32" alt="fastapi logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=flask" height="32" alt="flask logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="32" alt="git logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="32" alt="numpy logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="32" alt="postman logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="32" alt="pytest logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/qt/41CD52" height="32" alt="qt logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="32" alt="illustrator logo"  />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="34" alt="astro logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="34" alt="blender logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="34" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="34" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="34" alt="django logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="34" alt="fastapi logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=flask" height="34" alt="flask logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="34" alt="numpy logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="34" alt="postman logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="34" alt="pytest logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=py" height="34" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/qt/41CD52" height="34" alt="qt logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="34" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="34" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="34" alt="illustrator logo"  />
 </div>
 
 ###
