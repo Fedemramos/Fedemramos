@@ -1,4 +1,7 @@
-<h4 align="left">Hi 👋! Soy Federico Ramos....<br><br>Desarrollador de Software  | Diseñador Industrial | Evolucion constante<br> <br>Soy un diseñador  y aboco a la creacion de aplicaciones y desarrollo de  software con el objetivo de soluciones que integren diseño y eficiencia. Mi experiencia actual abarca desde el desarrollo de aplicaciones web hasta la automatización de procesos.<br><br>Educación y Formación<br>Título Universitario: Diseñador Industrial - UNMDP / ARG<br>Certificaciones Relevantes: computer science cs50</h4>
+<h4 align="left">Hola 👋! Soy Federico Ramos....
+  <br><br>
+  
+  Desarrollador de Software  | Diseñador Industrial | Evolucion constante<br> <br>Soy un diseñador  y aboco a la creacion de aplicaciones y desarrollo de  software con el objetivo de soluciones que integren diseño y eficiencia. Mi experiencia actual abarca desde el desarrollo de aplicaciones web hasta la automatización de procesos.<br><br>Educación y Formación<br>Título Universitario: Diseñador Industrial - UNMDP / ARG<br>Certificaciones Relevantes: computer science cs50</h4>
 
 ###
 
@@ -9,7 +12,7 @@
 
 ###
 
-<img align="right" height="220" src="https://avatars.githubusercontent.com/u/114125535?v=4"  />
+<img align="right" height="230" src="https://avatars.githubusercontent.com/u/114125535?v=4"  />
 
 ###
 
@@ -45,18 +48,22 @@
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<div align="right">
+  <a href="https://www.instagram.com/federamos.id/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
   <a href="ramosfederico76@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/federico-ramoss/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -65,8 +72,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Fedemramos/Fedemramos/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
