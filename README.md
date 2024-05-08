@@ -1,35 +1,33 @@
-<br clear="both">
+<h2 align="left">Hola 👋! Soy Federico Ramos....</h2>
 
-<img align="right" height="220" src="https://mir-s3-cdn-cf.behance.net/user/230/2ce37e1202230651.6212feea12c0d.jpg"  />
+###
+
+<img align="right" height="250" src="https://mir-s3-cdn-cf.behance.net/user/230/2ce37e1202230651.6212feea12c0d.jpg"  />
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/federico-ramoss/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/federamos.id/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="27" alt="instagram logo"  />
   </a>
   <a href="https://www.behance.net/federicoramos6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="25" alt="behance logo"  />
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="27" alt="behance logo"  />
   </a>
   <a href="ramosfederico76@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<p align="center">Portfolio🔭: https://porfolio-fede.netlify.app/</p>
+<h4 align="center">Portfolio🔭: https://porfolio-fede.netlify.app/</h4>
 
 ###
 
-<h2 align="center">Hola 👋! Soy Federico Ramos....</h2>
-
-###
-
-<h3 align="left">👩‍💻  Sobre mi:</h3>
+<h3 align="center">👩‍💻  Sobre mi:</h3>
 
 ###
 
@@ -37,7 +35,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -77,7 +75,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
