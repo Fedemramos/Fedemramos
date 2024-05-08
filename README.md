@@ -2,36 +2,36 @@
 
 ###
 
-<img align="right" height="250" src="https://mir-s3-cdn-cf.behance.net/user/230/2ce37e1202230651.6212feea12c0d.jpg"  />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/federico-ramoss/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/federamos.id/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="27" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.behance.net/federicoramos6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="27" alt="behance logo"  />
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="30" alt="behance logo"  />
   </a>
   <a href="ramosfederico76@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h4 align="center">Portfolio🔭: https://porfolio-fede.netlify.app/</h4>
+<h4 align="center">PORTFOLIO➡️: https://porfolio-fede.netlify.app/</h4>
 
 ###
 
 <h2 align="center">👩‍💻  Sobre mi:</h2>
 
+###
 
+<img align="right" height="250" src="https://mir-s3-cdn-cf.behance.net/user/230/2ce37e1202230651.6212feea12c0d.jpg"  />
 
-<h3 align="left">Desarrollador de Software | Diseñador Industrial | Evolucion constante<br><br>Soy un diseñador y aboco a la creacion de aplicaciones y desarrollo de software con el objetivo de soluciones que integren diseño y eficiencia. Mi experiencia actual abarca desde el desarrollo de aplicaciones web hasta la automatización de procesos.<br><br>Educación y Formación<br>Título Universitario: Diseñador Industrial - UNMDP / ARG<br>Certificaciones Relevantes: computer science cs50</h3>
+###
+
+<h4 align="left">Desarrollador de Software | Diseñador Industrial | Evolucion Constante<br><br>Soy un diseñador, aboco a la creacion de aplicaciones y desarrollo de software con el objetivo de soluciones que integren diseño y eficiencia. Mi experiencia actual abarca desde el desarrollo de aplicaciones web completos, hasta la automatización de procesos.<br><br>Educación y Formación<br>Título Universitario: Diseñador Industrial - UNMDP / ARG<br>Certificaciones Relevantes: computer science cs50</h4>
 
 ###
 
@@ -48,7 +48,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="34" alt="css3 logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="34" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="34" alt="django logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="34" alt="fastapi logo"  />
   <img width="20" />
