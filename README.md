@@ -82,10 +82,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fedemramos&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fedemramos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Fedemramos&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
-
 <!--
 **Fedemramos/Fedemramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
