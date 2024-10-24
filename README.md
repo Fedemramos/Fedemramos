@@ -44,7 +44,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="34" alt="blender logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="34" alt="c logo"  />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="34" alt="c logo" />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="34" alt="css3 logo"  />
   <img width="20" />
@@ -63,8 +63,6 @@
   <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="34" alt="pytest logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="34" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/qt/41CD52" height="34" alt="qt logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="34" alt="tailwindcss logo"  />
   <img width="20" />
